@@ -1,0 +1,58 @@
+
+.slideup_plg{ display:block;position:fixed;width:250px;height: auto;right:1px;bottom:0;z-index:9999;}
+.buttons_custom { display:block;}
+.buttontab {text-transform: none; width: 250px;text-align: left;border-radius: 5px 5px 0 0;margin: 0;}
+.buttontab a {display: block;color: #fff;text-decoration:none;}
+.buttontab a:hover {text-decoration: none;}
+.buttontab a.active {}
+.conts {background: #000;padding: 10px;display: none; }
+.container{width: 800px;margin: 0 auto;}
+.fleft{float:left; margin-right:50px;}
+.mainbox a{text-decoration:none;}
+.mainbox{ font:normal 14px Arial, Helvetica, sans-serif; color:#54513e; width:250px; display:block; line-height:22px;}
+.mainbox .header{ background:#742916; padding:10px 0; text-align:left; font-size:17px; color:#fff; borderd-bottom:1px solid #fff; cursor: pointer;}
+.mainbox .midarea{margin:0 auto; padding:10px;}
+.mainbox .midarea h2{ /*font-size:14px; font-weight:normal; padding:0; margin:10px 0 25px 0; text-align:center;*/
+font-size: 14px;
+font-weight: normal;
+padding: 0;
+margin: 0px 0 12px 0;
+text-align: center;
+color : #000;}
+.mainbox .midarea p{ margin:0 auto; text-align:center; padding: 0}
+.mainbox .midarea p input,textarea{ border:1px solid #cac3ae; height:30px; line-height:30px; padding:0px 15px; width:80%; margin-bottom:10px;}
+.mainbox .midarea p textarea{ height:75px;}
+.mainbox .midarea p textarea.box2{ height:155px;}
+.mainbox .midarea p .sendbut{ border-radius:5px; text-align:center; border:none; background:#742916; color:#fff; width:110px; line-height:35px; height:35px; font-size:17px; cursor:pointer;}
+.mainbox .midarea p img{max-width:100%; height:auto; vertical-align:middle;}
+.mainbox .midarea p.textonly{text-align:left;}
+/*.mainbox .midarea span{margin:30px 0 10px 0; display:inline-block;}
+.mainbox .midarea span a{color:#742916; font-weight:bold;}*/
+.mainbox textarea {resize: none;}
+.mainbox .close-icon{ float: right;margin : -20px 8px 0 5px;}
+.mainbox .heading-text{ margin-left : 3%;}
+
+.mainbox .midarea .wpcf7 p{text-align: left;}
+
+.mainbox .midarea .ajax-loader-img{ width: 100%; text-align: center; display: block;}
+.mainbox .midarea .ajax-loader-img img, .mainbox .midarea .ajax-loader-img em{display: none;}
+.mainbox .wpcf7-form .wpcf7-submit{ width: 94%;}
+
+
+
+.admin-image-popup{ margin: 0 45%}
+
+/* img{}*/
+
+@media only screen and (max-width:640px) { .mainbox{ display: none !important;}}
+
+/* For mobile : like samsung grand(480 * 800): */
+@media screen and (max-width : 480px){ .mainbox{ display: none !important;}}
+
+
+/* For iphone: */
+@media screen and (max-width : 320px){ .mainbox{ display: none !important;}} 
+
+
+/* For ipad: */
+@media screen and (max-width : 768px){ .mainbox{ display: none !important;}} 

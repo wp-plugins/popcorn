@@ -8,11 +8,11 @@ Stable tag: 1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Popcorn Plugin has 4 different popup options to show, you can have look at the below mentioned long description
+Amazing Popups for Wordpress.
 
 == Description ==
 
-This plugin has 4 types of Pop-ups.
+This plugin has 4 types of Popups.
 
 1. Image only : Here you can set an image and give a hyper-link to the image. For example if there is an offer on e-commerce website, you can upload the offer image and give the link to that page.
 

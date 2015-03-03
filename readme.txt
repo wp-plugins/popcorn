@@ -4,7 +4,7 @@ Contributors: Sumitkumar Nayak , niravdave
 Tags: Popup , Ask a question Popup, Coupon image Popup, Custom form Popup, Feedback form Popup, Information Popup, Static information Popup, Leave a message Popup, Coupon Image Popup, Sale Popup, Contact Form Popup, Customized Popup, Single Page Popup, All Page Popup, Feedback, Complaint Form Popup 
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -23,9 +23,6 @@ They can use this and show the news in the pop-up. As well as they can give a hy
 
 4. Custom Form : This pop-up is basically used to get information from the user. By default it has Name, Mobile, Email, Message fields in the form. But this feature has been extended by making it work with the Custom form 7 plugin short-code. You can simply set the short-code of the contact form 7 plugin and the form will be displayed in the pop-up.
 Note : If you use contact form 7 short code you need to make changes in the CSS code.
-
- 
-
 
 == Installation ==
 
@@ -62,10 +59,18 @@ This WP Popcorn Plugin helps the Administrator in various ways. Admin can activa
 
 5. Custom Form - This pop-up is basically used to get information from the user. By default it has Name, Mobile, Email, Message fields in the form. But this feature has been extended by making it work with the Custom form 7 plugin short-code. You can simply set the short-code of the contact form 7 plugin and the form will be displayed in the pop-up. Note : If you use contact form 7 short code you need to make changes in the CSS code.
 
+6. Front end Image Only Popup
+
+7. Front end Ask a Question Popup
+
+8. Front end Text Only Popup
+
+9. Front end Custom Form Popup
+
 == Change log ==
 
 =1.0=
 First public release
 
-== Upgrade Notice ==
-Too get better popcorn designs and features.
+=1.0.1=
+Fixed some minor bugs.

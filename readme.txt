@@ -32,7 +32,6 @@ Note : If you use contact form 7 short code you need to make changes in the CSS 
 4. Go to the popcorn dashboard page to select the popcorn you want to activate.
 5. There are individual dashboards form \'Image only\', \'Ask a Question\', \'Text Only\', \'Custom Form\'. Make changes as per your need
 
-
 == Frequently Asked Questions ==
 
 =What is popcorn ?=

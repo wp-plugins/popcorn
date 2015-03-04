@@ -1,0 +1,24 @@
+ .postbox em{
+                float: left;
+                width : 25%;
+                font-style: normal;
+            }
+            .postbox input[type="text"]{
+                /*float: right;*/
+                width: 25%;
+            }
+            .postbox textarea{
+                width: 50%;
+                height:30%;
+            }
+            .postbox h3 { cursor:pointer; }
+			@media screen and (max-width: 52.375em) {
+				.postbox em {width:30%;}
+				.postbox input[type="text"] {width:40%;}
+			}
+			@media screen and (max-width: 32em) {
+				.postbox em {width:100%; padding-bottom:3%;}
+				.postbox input[type="text"] {width:100%;}
+				i {width:100%}
+				img {display:block; width:100%; height:100%;}
+			}

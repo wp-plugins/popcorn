@@ -1,0 +1,24 @@
+.popcorn-dashboard em{
+    float: left;
+    width : 25%;
+    font-style: normal;
+}
+.popcorn-dashboard input[type="text"]{
+    /*float: right;*/
+    width: 25%;
+}
+.popcorn-dashboard textarea{
+    width: 50%;
+    height:30%;
+}
+.popcorn-dashboard h3 { cursor:pointer; }
+@media screen and (max-width: 52.375em) {
+	.popcorn-dashboard em {width:30%;}
+	.popcorn-dashboard input[type="text"] {width:40%;}
+}
+@media screen and (max-width: 32em) {
+	.popcorn-dashboard em {width:100%; padding-bottom:3%;}
+	.popcorn-dashboard input[type="text"] {width:100%;}
+	.popcorn-dashboard i {width:100%}
+	.popcorn-dashboard img {display:block; width:100%; height:100%;}
+}

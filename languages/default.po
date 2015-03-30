@@ -1,0 +1,705 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Subscribe Pro by MyThemeShop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-09 22:42+0530\n"
+"PO-Revision-Date: 2014-11-09 22:42+0530\n"
+"Last-Translator: MyThemeShop <support-team@mythemeshop.com>\n"
+"Language-Team: MyThemeShop <support-team@mythemeshop.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../functions.php:273
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../options.php:32
+msgid "Get more stuff like this<br/> <span>in your inbox</span>"
+msgstr ""
+
+#: ../options.php:33 ../options.php:91 ../wp-subscribe-widget.php:341
+msgid ""
+"Subscribe to our mailing list and get interesting stuff and updates to your "
+"email inbox."
+msgstr ""
+
+#: ../options.php:34 ../options.php:92 ../wp-subscribe-widget.php:343
+msgid "Enter your name here"
+msgstr ""
+
+#: ../options.php:35 ../options.php:93 ../wp-subscribe-widget.php:342
+msgid "Enter your email here"
+msgstr ""
+
+#: ../options.php:36 ../options.php:94 ../wp-subscribe-widget.php:344
+msgid "Sign Up Now"
+msgstr ""
+
+#: ../options.php:37 ../options.php:95 ../wp-subscribe-widget.php:345
+msgid "Thank you for subscribing."
+msgstr ""
+
+#: ../options.php:38 ../options.php:96 ../wp-subscribe-widget.php:346
+msgid "Something went wrong."
+msgstr ""
+
+#: ../options.php:39 ../options.php:97
+msgid "We respect your privacy and take protecting it seriously"
+msgstr ""
+
+#: ../options.php:51
+msgid "Some text with padding."
+msgstr ""
+
+#: ../options.php:67
+msgid "Before you go"
+msgstr ""
+
+#: ../options.php:68
+msgid "You may also be interested in these posts:"
+msgstr ""
+
+#: ../options.php:90
+msgid "Get more stuff like this"
+msgstr ""
+
+#: ../options.php:180
+msgid "WP Subscribe Pro Settings"
+msgstr ""
+
+#: ../options.php:186
+msgid "Popup"
+msgstr ""
+
+#: ../options.php:187
+msgid "Popup Content"
+msgstr ""
+
+#: ../options.php:188
+msgid "Popup Triggers"
+msgstr ""
+
+#: ../options.php:189
+msgid "Single Posts"
+msgstr ""
+
+#: ../options.php:199
+msgid "Enable Popup"
+msgstr ""
+
+#: ../options.php:202
+msgid ""
+"Enable site-wide popup that shows subscribe form, related posts, or custom "
+"HTML."
+msgstr ""
+
+#: ../options.php:207
+msgid "Show subscribe form in popup"
+msgstr ""
+
+#: ../options.php:211
+msgid "Show related posts in popup"
+msgstr ""
+
+#: ../options.php:215
+msgid "Show custom HTML or shortcode in popup"
+msgstr ""
+
+#: ../options.php:220
+msgid "Popup width"
+msgstr ""
+
+#: ../options.php:226
+msgid "Popup Animation"
+msgstr ""
+
+#: ../options.php:229 ../options.php:294
+msgid "No Animation"
+msgstr ""
+
+#: ../options.php:230
+msgid "Attention Seekers"
+msgstr ""
+
+#: ../options.php:231
+msgid "bounce"
+msgstr ""
+
+#: ../options.php:232
+msgid "flash"
+msgstr ""
+
+#: ../options.php:233
+msgid "pulse"
+msgstr ""
+
+#: ../options.php:234
+msgid "rubberBand"
+msgstr ""
+
+#: ../options.php:235
+msgid "shake"
+msgstr ""
+
+#: ../options.php:236
+msgid "swing"
+msgstr ""
+
+#: ../options.php:237
+msgid "tada"
+msgstr ""
+
+#: ../options.php:238
+msgid "wobble"
+msgstr ""
+
+#: ../options.php:241
+msgid "Bouncing Entrances"
+msgstr ""
+
+#: ../options.php:242
+msgid "bounceIn"
+msgstr ""
+
+#: ../options.php:243
+msgid "bounceInDown"
+msgstr ""
+
+#: ../options.php:244
+msgid "bounceInLeft"
+msgstr ""
+
+#: ../options.php:245
+msgid "bounceInRight"
+msgstr ""
+
+#: ../options.php:246
+msgid "bounceInUp"
+msgstr ""
+
+#: ../options.php:249
+msgid "Fading Entrances"
+msgstr ""
+
+#: ../options.php:250
+msgid "fadeIn"
+msgstr ""
+
+#: ../options.php:251
+msgid "fadeInDown"
+msgstr ""
+
+#: ../options.php:252
+msgid "fadeInDownBig"
+msgstr ""
+
+#: ../options.php:253
+msgid "fadeInLeft"
+msgstr ""
+
+#: ../options.php:254
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: ../options.php:255
+msgid "fadeInRight"
+msgstr ""
+
+#: ../options.php:256
+msgid "fadeInRightBig"
+msgstr ""
+
+#: ../options.php:257
+msgid "fadeInUp"
+msgstr ""
+
+#: ../options.php:258
+msgid "fadeInUpBig"
+msgstr ""
+
+#: ../options.php:261 ../options.php:315
+msgid "Flippers"
+msgstr ""
+
+#: ../options.php:262
+msgid "flipInX"
+msgstr ""
+
+#: ../options.php:263
+msgid "flipInY"
+msgstr ""
+
+#: ../options.php:266 ../options.php:319
+msgid "Lightspeed"
+msgstr ""
+
+#: ../options.php:267
+msgid "lightSpeedIn"
+msgstr ""
+
+#: ../options.php:270
+msgid "Rotating Entrances"
+msgstr ""
+
+#: ../options.php:271
+msgid "rotateIn"
+msgstr ""
+
+#: ../options.php:272
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: ../options.php:273
+msgid "rotateInDownRight"
+msgstr ""
+
+#: ../options.php:274
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: ../options.php:275
+msgid "rotateInUpRight"
+msgstr ""
+
+#: ../options.php:278 ../options.php:329
+msgid "Specials"
+msgstr ""
+
+#: ../options.php:279
+msgid "rollIn"
+msgstr ""
+
+#: ../options.php:280
+msgid "newspaperIn"
+msgstr ""
+
+#: ../options.php:283
+msgid "Zoom Entrances"
+msgstr ""
+
+#: ../options.php:284
+msgid "zoomIn"
+msgstr ""
+
+#: ../options.php:285
+msgid "zoomInDown"
+msgstr ""
+
+#: ../options.php:286
+msgid "zoomInLeft"
+msgstr ""
+
+#: ../options.php:287
+msgid "zoomInRight"
+msgstr ""
+
+#: ../options.php:288
+msgid "zoomInUp"
+msgstr ""
+
+#: ../options.php:296
+msgid "Bouncing Exits"
+msgstr ""
+
+#: ../options.php:297
+msgid "bounceOut"
+msgstr ""
+
+#: ../options.php:298
+msgid "bounceOutDown"
+msgstr ""
+
+#: ../options.php:299
+msgid "bounceOutLeft"
+msgstr ""
+
+#: ../options.php:300
+msgid "bounceOutRight"
+msgstr ""
+
+#: ../options.php:301
+msgid "bounceOutUp"
+msgstr ""
+
+#: ../options.php:304
+msgid "Fading Exits"
+msgstr ""
+
+#: ../options.php:305
+msgid "fadeOut"
+msgstr ""
+
+#: ../options.php:306
+msgid "fadeOutDown"
+msgstr ""
+
+#: ../options.php:307
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: ../options.php:308
+msgid "fadeOutLeft"
+msgstr ""
+
+#: ../options.php:309
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: ../options.php:310
+msgid "fadeOutRight"
+msgstr ""
+
+#: ../options.php:311
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: ../options.php:312
+msgid "fadeOutUp"
+msgstr ""
+
+#: ../options.php:313
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: ../options.php:316
+msgid "flipOutX"
+msgstr ""
+
+#: ../options.php:317
+msgid "flipOutY"
+msgstr ""
+
+#: ../options.php:320
+msgid "lightSpeedOut"
+msgstr ""
+
+#: ../options.php:322
+msgid "Rotating Exits"
+msgstr ""
+
+#: ../options.php:323
+msgid "rotateOut"
+msgstr ""
+
+#: ../options.php:324
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: ../options.php:325
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: ../options.php:326
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: ../options.php:327
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: ../options.php:330
+msgid "hinge"
+msgstr ""
+
+#: ../options.php:331
+msgid "rollOut"
+msgstr ""
+
+#: ../options.php:332
+msgid "newspaperOut"
+msgstr ""
+
+#: ../options.php:334
+msgid "Zoom Exits"
+msgstr ""
+
+#: ../options.php:335
+msgid "zoomOut"
+msgstr ""
+
+#: ../options.php:336
+msgid "zoomOutDown"
+msgstr ""
+
+#: ../options.php:337
+msgid "zoomOutLeft"
+msgstr ""
+
+#: ../options.php:338
+msgid "zoomOutRight"
+msgstr ""
+
+#: ../options.php:339
+msgid "zoomOutUp"
+msgstr ""
+
+#: ../options.php:346
+msgid "Popup overlay color"
+msgstr ""
+
+#: ../options.php:349
+msgid "Popup overlay opacity"
+msgstr ""
+
+#: ../options.php:355 ../options.php:445
+msgid "Preview Popup"
+msgstr ""
+
+#: ../options.php:356 ../options.php:446 ../options.php:491 ../options.php:578
+msgid "Save Changes"
+msgstr ""
+
+#: ../options.php:374 ../options.php:532 ../wp-subscribe-widget.php:176
+msgid "Feedburner ID"
+msgstr ""
+
+#: ../options.php:378 ../options.php:536
+msgid "MailChimp API Key"
+msgstr ""
+
+#: ../options.php:379 ../options.php:537
+msgid "MailChimp List ID"
+msgstr ""
+
+#: ../options.php:380 ../options.php:538 ../wp-subscribe-widget.php:181
+msgid "Find your API key"
+msgstr ""
+
+#: ../options.php:381 ../options.php:386 ../options.php:539 ../options.php:544
+#: ../wp-subscribe-widget.php:183 ../wp-subscribe-widget.php:188
+msgid "Find your list ID"
+msgstr ""
+
+#: ../options.php:385 ../options.php:543 ../wp-subscribe-widget.php:187
+msgid "AWeber List ID"
+msgstr ""
+
+#: ../options.php:394 ../options.php:552
+msgid "Include <strong>Name</strong> field"
+msgstr ""
+
+#: ../options.php:398 ../options.php:423 ../options.php:557
+#: ../wp-subscribe-widget.php:201 ../wp-subscribe-widget.php:216
+msgid "Title"
+msgstr ""
+
+#: ../options.php:399 ../options.php:424 ../options.php:558
+#: ../wp-subscribe-widget.php:202 ../wp-subscribe-widget.php:217
+msgid "Text"
+msgstr ""
+
+#: ../options.php:400 ../options.php:559
+msgid "Name Placeholder Text"
+msgstr ""
+
+#: ../options.php:401 ../options.php:560
+msgid "Email Placeholder Text"
+msgstr ""
+
+#: ../options.php:402 ../options.php:561 ../wp-subscribe-widget.php:205
+#: ../wp-subscribe-widget.php:220
+msgid "Button Text"
+msgstr ""
+
+#: ../options.php:403 ../options.php:562 ../wp-subscribe-widget.php:206
+msgid "Success Message"
+msgstr ""
+
+#: ../options.php:404 ../options.php:563 ../wp-subscribe-widget.php:207
+msgid "Error Message"
+msgstr ""
+
+#: ../options.php:405 ../options.php:564 ../wp-subscribe-widget.php:208
+#: ../wp-subscribe-widget.php:222
+msgid "Footer Text"
+msgstr ""
+
+#: ../options.php:407 ../options.php:426 ../options.php:566
+msgid "Background color"
+msgstr ""
+
+#: ../options.php:408 ../options.php:427 ../options.php:567
+msgid "Title color"
+msgstr ""
+
+#: ../options.php:409 ../options.php:428 ../options.php:568
+msgid "Text color"
+msgstr ""
+
+#: ../options.php:410 ../options.php:569
+msgid "Field text color"
+msgstr ""
+
+#: ../options.php:411 ../options.php:570
+msgid "Field background color"
+msgstr ""
+
+#: ../options.php:412 ../options.php:571
+msgid "Button text color"
+msgstr ""
+
+#: ../options.php:413 ../options.php:572
+msgid "Button background color"
+msgstr ""
+
+#: ../options.php:414 ../options.php:573
+msgid "Footer text color"
+msgstr ""
+
+#: ../options.php:429
+msgid "Line color"
+msgstr ""
+
+#: ../options.php:431
+msgid "Post Meta"
+msgstr ""
+
+#: ../options.php:435
+msgid "Show post categories"
+msgstr ""
+
+#: ../options.php:440
+msgid "Show post excerpt"
+msgstr ""
+
+#: ../options.php:457
+msgid "Show popup when visitor enters site"
+msgstr ""
+
+#: ../options.php:464
+#, php-format
+msgid "Show popup after %s seconds."
+msgstr ""
+
+#: ../options.php:471
+msgid "Show popup when visitor is about to leave (exit intent)"
+msgstr ""
+
+#: ../options.php:474
+msgid ""
+"Note: popup will only appear once for each visitor until the cookie expires"
+msgstr ""
+
+#: ../options.php:477
+msgid "Cookie expiration:"
+msgstr ""
+
+#: ../options.php:479
+msgid "days"
+msgstr ""
+
+#: ../options.php:479
+msgid "Set to 0 to create cookies that last only for one browser session."
+msgstr ""
+
+#: ../options.php:484
+msgid "Clear cookies for all visitors:"
+msgstr ""
+
+#: ../options.php:485
+msgid "Generate new cookies"
+msgstr ""
+
+#: ../options.php:487
+msgid "Please save the options to apply changes."
+msgstr ""
+
+#: ../options.php:503
+msgid "Add Subscribe Form to Single Posts"
+msgstr ""
+
+#: ../options.php:506
+msgid "Show subscribe form before or after content on single posts."
+msgstr ""
+
+#: ../options.php:513
+msgid "Before post content"
+msgstr ""
+
+#: ../options.php:517
+msgid "After post content"
+msgstr ""
+
+#: ../options.php:521
+msgid "Copy popup form settings"
+msgstr ""
+
+#: ../options.php:640
+msgid "Settings"
+msgstr ""
+
+#: ../wp-subscribe-pro.php:44
+msgid ""
+"Please deactivate WP Subscribe plugin first to use the Premium features!"
+msgstr ""
+
+#: ../wp-subscribe-widget.php:32
+msgid "Displays Subscription Form, Supports - FeedBurner, MailChimp & AWeber."
+msgstr ""
+
+#: ../wp-subscribe-widget.php:38
+msgid "WP Subscribe Pro Widget"
+msgstr ""
+
+#: ../wp-subscribe-widget.php:170
+msgid "Service:"
+msgstr ""
+
+#: ../wp-subscribe-widget.php:180
+msgid "Mailchimp API key"
+msgstr ""
+
+#: ../wp-subscribe-widget.php:182
+msgid "Mailchimp List ID"
+msgstr ""
+
+#: ../wp-subscribe-widget.php:195
+msgid "Include <strong>Name</strong> field."
+msgstr ""
+
+#: ../wp-subscribe-widget.php:198
+msgid "Labels"
+msgstr ""
+
+#: ../wp-subscribe-widget.php:203
+msgid "Name Placeholder"
+msgstr ""
+
+#: ../wp-subscribe-widget.php:204
+msgid "Email Placeholder"
+msgstr ""
+
+#: ../wp-subscribe-widget.php:212
+msgid "Colors"
+msgstr ""
+
+#: ../wp-subscribe-widget.php:215
+msgid "Background"
+msgstr ""
+
+#: ../wp-subscribe-widget.php:218
+msgid "Field Text"
+msgstr ""
+
+#: ../wp-subscribe-widget.php:219
+msgid "Field Background"
+msgstr ""
+
+#: ../wp-subscribe-widget.php:221
+msgid "Button Background"
+msgstr ""
+
+#: ../wp-subscribe-widget.php:340
+msgid "Get more stuff"
+msgstr ""
+
+#: ../wp-subscribe-widget.php:347
+msgid "we respect your privacy and take protecting it seriously"
+msgstr ""

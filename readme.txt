@@ -4,7 +4,7 @@ Contributors: Sumitkumar Nayak , niravdave
 Tags: Popup , Ask a question Popup, Coupon image Popup, Custom form Popup, Feedback form Popup, Information Popup, Static information Popup, Leave a message Popup, Coupon Image Popup, Sale Popup, Contact Form Popup, Customized Popup, Single Page Popup, All Page Popup, Feedback, Complaint Form Popup 
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

@@ -68,8 +68,11 @@ This WP Popcorn Plugin helps the Administrator in various ways. Admin can activa
 
 == Change log ==
 
-=1.0=
-First public release
+= 1.0 =
+*First public release
 
-=1.0.1=
+= 1.0.1 =
 Fixed some minor bugs.
+
+= 1.0.2 =
+*Fixed CSS issue which was clashing with Admin CSS.
